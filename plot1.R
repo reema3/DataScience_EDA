@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Saurav Singla\\Documents\\Reema")
+setwd("C:\\Users\\Documents\\Reema")
 
 #Load the data set
 electricity <- read.csv("Data1.csv")

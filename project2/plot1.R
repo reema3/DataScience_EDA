@@ -1,4 +1,3 @@
-setwd("C:\\Users\\Saurav Singla\\Documents\\Reema")
 #Load emission data
 Emission_Data <- readRDS("summarySCC_PM25.rds")
 
